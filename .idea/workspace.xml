@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5c91037-93eb-4995-a38f-44e8c6a173f5" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/OOP-II-ICS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c5c91037-93eb-4995-a38f-44e8c6a173f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP Challenges/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Challenges/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Challenges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Challenges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Challenges/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP Challenges/OOP Challenges.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +18,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OOP Challenges" />
+    <option name="RESET_MODE" value="KEEP" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -22,16 +28,17 @@
     &quot;assignee&quot;: &quot;Mundiaa&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Mundiaa/OOP2.git&quot;,
-    &quot;accountId&quot;: &quot;e7e27c45-305f-4e3c-a3a0-7b2b2a77895f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mundiaa/OOP-II-ICS.git",
+    "accountId": "e7e27c45-305f-4e3c-a3a0-7b2b2a77895f"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2zYHGR1MCv9EwU77MstvGKebqUY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/PC/Java Projects/OOP2",
     "node.js.detected.package.eslint": "true",
@@ -47,10 +54,28 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.12391573",
+    "project.structure.side.proportion": "0.15066965",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="OOP2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="OOP2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,6 +101,8 @@
       <workItem from="1752120186087" duration="110000" />
       <workItem from="1752190474487" duration="1506000" />
       <workItem from="1752192159538" duration="597000" />
+      <workItem from="1752210972047" duration="1081000" />
+      <workItem from="1752212127690" duration="1420000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <option name="closed" value="true" />
@@ -109,11 +136,30 @@
       <option name="project" value="LOCAL" />
       <updated>1752190794902</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 35faa3c4">
+      <option name="closed" value="true" />
+      <created>1752211188053</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752211188053</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -128,6 +174,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+    <MESSAGE value="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 35faa3c4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 35faa3c4" />
   </component>
 </project>
